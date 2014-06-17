@@ -11,4 +11,5 @@ Uses
 
 
 ## TODO
-- Automate inline css on build
+- Automate inline css on build @done
+- Integrate mailgun for sample email
